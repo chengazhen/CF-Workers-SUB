@@ -15,6 +15,7 @@ let cacheTTL = 24 ;//小时，缓存时长
 //节点链接 + 订阅链接
 let MainData = `
 https://sub1.smallstrawberry.com/api/v1/client/subscribe?token=a94e2d07de0d71d4f1106d799cb93fed
+https://link01.pikachucloud.site/api/v1/client/subscribe?token=8a6aeec1bbc1ef0eed33a47d48e996f6
 `
 
 let urls = [];
